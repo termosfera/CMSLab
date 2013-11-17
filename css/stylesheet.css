@@ -1,0 +1,25 @@
+/* 
+    Document   : stylesheet.css
+    Created on : 06-nov-2013, 17:58:24
+    Author     : juan
+    Description:
+        Header stylesheet.
+*/
+
+.logo {
+    margin-right: .5em;
+    padding-bottom: .2em;
+}
+.navbar-brand {
+    font-size: 2.5em;
+}
+.title {
+    text-align: center;
+    font-family: Verdana;
+    color: #2a6496;
+}
+.text {
+    text-align: center;
+    font-family: Arial;
+    color: #3c3c3c;
+}

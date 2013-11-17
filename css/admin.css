@@ -1,0 +1,65 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10-nov-2013, 20:04:23
+    Author     : juan
+*/
+h3 {
+    margin-left: 1em;
+}
+h4 {
+    display: inline-block;
+    margin-left: 2em;
+}
+
+#lista-usuarios-checkbox {
+    display: inline-block;
+}
+label {
+    display: block;
+    float: right;
+}
+
+.input-group {
+    margin: 2em;
+}
+button {
+    margin-top: 2em;
+}
+textarea {
+    margin-top: 2%;
+}
+footer {
+    width: 100%;
+    height: 200px;
+    bottom: 0;
+    position: absolute;
+    text-align: center;
+    background-color: #306772;
+    border-top-style: solid;
+    border-top-width: 5px;
+    border-top-color: lightblue;
+}
+
+#footer-text, #footer-text a {
+    margin: 1.5em;
+    color: white;
+    font-size: 1em;
+}
+
+a:hover {
+    color:whitesmoke;
+}
+
+footer img {
+    margin: .5em;
+    padding: .5em;
+    background-color: white;
+    border-style: solid;
+    border-width: 2.5px;
+    border-color: lightblue;
+    border-radius: 10px;
+}

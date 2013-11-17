@@ -1,0 +1,56 @@
+/* 
+    Document   : install
+    Created on : 06-nov-2013, 20:48:22
+    Author     : juan
+    Description:
+        Purpose of the stylesheet follows.
+*/
+body {
+    background-color: whitesmoke;
+}
+
+#logo {
+    display: block;
+    text-align: center;
+    margin: .5em;
+}
+
+p {
+    font-family: Arial Sans Serif;
+    font-size: 1.2em;
+    text-align: center;
+    padding: .5em;
+}
+
+#container {
+    width: 500px;
+    height: 500px;
+    padding: .5em;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 3px 3px grey;
+    background-color: white;
+    font-family: Arial Sans Serif;
+    font-size: 1.2em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -300px;
+    margin-left: -250px;
+}
+
+label {
+    padding: .5em;
+}
+
+input {
+    border-radius: 5px;
+    padding: .5em;
+}
+
+#button {
+    margin: .5em;
+    margin-top: .5em;
+}
+
