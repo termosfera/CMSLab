@@ -1,22 +1,18 @@
 CMSLab
+======
 
-== Description ==
+Description 
+===========
 Projecto de creación de un CMS simple.
 
-== Installation ==
+Installation 
+============
 Descomprime el directorio en la raíz de un servidor HTTP que disponga de un
 interprete PHP instalado. A continuación sigue las indicaciones.
 El directorio necesitará contar con permisos de escritura.
 
-== Frequently Asked Questions ==
-
-== Screenshots ==
-
-== Changelog ==
-
-== Upgrade Notice ==
-
-== Additional Info One (Optional) ==
+Additional Info One
+===================
 Tareas pendientes:
  - Cambiar a paradigma de orientación a objetos.
  - Tratar posibles errores con excepciones.
@@ -26,4 +22,3 @@ Tareas pendientes:
  - Mejorar gestión para eliminar contenido.
  - Cambiar diseño de sitio principal.
 
-== More Additional Info Two (Optional) ==
