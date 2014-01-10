@@ -1,6 +1,6 @@
 <?php
 session_start();
-if ($_SESSION['usuario'] === 'admin' && $_SESSION['acceso'] === 1) {
+if (isset($_SESSION['usuario']) === 'admin' && isset($_SESSION['acceso']) === 1) {
     header('location:./admin.php');
     exit();
 }
