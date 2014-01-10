@@ -1,18 +1,26 @@
 CMSLab
 ======
+Pequeño projecto de creación de un CMS simple con objetivo formativo.
 
-Description 
+Descripción
 ===========
-Projecto de creación de un CMS simple.
+En este trabajo se pretende poner en practica los conocimientos adquiridos
+en clase como:
+ - Programación PHP: Conexión con base de datos, acceso a ficheros, sesiones, etc...
+ - Programación JavaScript: Validación básica de formularios, modificación del DOM, Bootstrap, etc...
 
-Installation 
-============
+Instalación
+===========
 Descomprime el directorio en la raíz de un servidor HTTP que disponga de un
-interprete PHP instalado. A continuación sigue las indicaciones.
-El directorio necesitará contar con permisos de escritura.
+interprete PHP instalado, y permisos de escritura.
 
-Additional Info One
-===================
+Además, requiere de disponer de un servidor MySQL con una base de datos
+creada y un usuario con permisos de escritura.
+ 
+A continuación sigue las indicaciones durante el proceso de instalación.
+
+Información adicional
+=====================
 Tareas pendientes:
  - Cambiar a paradigma de orientación a objetos.
  - Tratar posibles errores con excepciones.
